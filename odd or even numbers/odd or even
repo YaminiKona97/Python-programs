@@ -1,0 +1,2 @@
+number=7
+print("even number" if(number%2==0) else "odd number") # using module division
